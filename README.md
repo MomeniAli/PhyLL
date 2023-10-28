@@ -10,6 +10,9 @@ PhyFF: Backpropagation-free Training of Deep Physical Neural Networks
   <img src="EPFL_LWE.jpg" width="350"/>
 </p>
 
+<p align="right">
+  <img src="Figure1_main.pdf" width="350"/>
+</p>
 
 We proposed a simple deep neural network architecture augmented by a biologically plausible local learning algorithm, enabling supervised and unsupervised training of deep physical neural networks (PNNs) without requiring detailed knowledge of the nonlinear physical layers’ properties. To showcase the universality of our approach, we trained diverse wave-based physical neural networks varying in underlying wave phenomenon and non-linearity to perform vowel and image classification experimentally. 
 
