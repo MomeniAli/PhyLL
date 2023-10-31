@@ -1,4 +1,4 @@
-PhyFF: Backpropagation-free Training of Deep Physical Neural Networks
+PhyLL: Backpropagation-free Training of Deep Physical Neural Networks
 =================
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)
 [![arxiv](https://img.shields.io/badge/arXiv-2211.01482-b31b1b.svg)](https://arxiv.org/abs/2304.11042)
