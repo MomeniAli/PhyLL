@@ -31,7 +31,7 @@ If you use this code for your research, please cite the following work:
 @article{momeni2023backpropagation,
   title={Backpropagation-free Training of Deep Physical Neural Networks},
   author={Momeni, Ali and Rahmani, Babak and Mallejac, Matthieu and Del Hougne, Philipp and Fleury, Romain},
-  journal={arXiv preprint arXiv:2304.11042},
+  journal={Science},
   year={2023}
 }
 ```
